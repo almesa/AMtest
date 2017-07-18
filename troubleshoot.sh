@@ -1,7 +1,7 @@
 #!/bin/bash
 #Written by Brad Johnson - LogRhythm Support
 #This script will gather various information about the linux DX and write it out into the $script_dir directory.
-
+#AlMesa
 #Variables you may want to change.
 user="root"					#$user is the username used for ssh access to the nodes and moving files between nodes.
 password=""
